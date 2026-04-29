@@ -1,2 +1,2 @@
 # FMML_projects_and_labs
-My project submissions of ML
+My project submissions on Machine Learning
